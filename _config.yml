@@ -23,14 +23,15 @@ author:
   # Biographic information
   avatar           : "me.jpg"
   name             : "Mohamad Louai Shehab" 
-  bio              : "Ph.D Student at University of Michigan - Ann Arbor"
-
+  bio              : "Ph.D Student in Robotics at University of Michigan - Ann Arbor."
+  location         : "Ann Arbor, MI"
   # Academic websites
 
   googlescholar    : "https://scholar.google.com/citations?user=DJvw8dUAAAAJ&hl=en"
- 
+  
   github           : "mlshehab"
-
+  linkedin         : "mohamad-louai-shehab"
+  email            : "mlshehab@umich.edu"
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
