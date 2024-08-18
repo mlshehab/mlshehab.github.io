@@ -25,6 +25,6 @@ I was born in Beirut, Lebanon. I received an embedded M.Sc. in Robotics from the
 
 * _Jan. 2023_ I was elected to be the **Outreach Chair** in the Robotics Graduate Student Council [(RGSC)](https://robotics.umich.edu/academics/current-students/robotics-graduate-student-council/).
 
-* _Dec. 2022_ - I passed my **CQE exam** and became a Ph.D Candidate!
+* _Dec. 2022_ - I passed my **CQE exam** and became a Ph.D Candidate.
 
 * _Jul. 2022_ - I attended the Formal Methods in Control Design workshop organized by European Embedded Control Institute (EECI).
