@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2025-10-01-paper-title-number-1
 excerpt: 'This paper deals with learning reward machines (FSM) from partial expert policies.'
 date: 2025-02-06
+venue: 'arXiv'
 paperurl: 'https://www.arxiv.org/abs/2502.03762'
 ---
 
