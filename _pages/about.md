@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome !
 
-I'm Mohamad Louai Shehab, a 4th year Ph.D student in the Robotics Department at the University of Micihgan. I'm fortunate to be advised by Prof. [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/). My research interest broadly span Inverse Reinforcement Learning and learning finite state machines from behaviors. 
+I'm Mohamad Louai Shehab, a 4th year Ph.D student in the Robotics Department at the University of Micihgan. I'm fortunate to be advised by Prof. [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/). My research interests broadly span Inverse Reinforcement Learning and learning finite state machines (reward machines) from observed optimal behaviors. 
 
 ### Bio
 
