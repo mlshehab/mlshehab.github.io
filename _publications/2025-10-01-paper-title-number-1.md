@@ -1,9 +1,9 @@
 ---
 title: "Learning Reward Machines from Partially Observed Optimal Policies"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-10-01-paper-title-number-1
-excerpt: 'Hllo'
+excerpt: 'This paper deals with learning reward machines (FSM) from partial expert policies.'
 date: 2025-02-06
 paperurl: 'https://www.arxiv.org/abs/2502.03762'
 ---
