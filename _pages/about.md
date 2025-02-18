@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome !
 
-I'm Mohamad Louai Shehab, a 4th year Ph.D student in the Robotics Department at the University of Micihgan. I'm fortunate to be advised by Prof. [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/). My research interests broadly span Inverse Reinforcement Learning and learning finite state machines (reward machines) from observed optimal behaviors. 
+I'm Mohamad Louai Shehab, a 4th year Ph.D student in the Robotics Department at the University of Michigan. I'm fortunate to be advised by Prof. [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/). My research interests broadly span Inverse Reinforcement Learning and learning finite state machines (reward machines) from observed optimal behaviors. 
 
 ### Bio
 
@@ -17,7 +17,7 @@ I was born in Beirut, Lebanon. I received an embedded M.Sc. in Robotics from the
 
 ### Latest News
 
-* _Jan. 2025_ I was at the _[Pudue ICON Student Research Conference](https://purdue-icon-src.github.io/)_ in West Lafayette, IN. I presented a poster about our work **[Learning Reward Machines from Partially Observed Optimal Policies](https://www.arxiv.org/abs/2502.03762)**
+* _Jan. 2025_ I was at the _[Purdue ICON Student Research Conference](https://purdue-icon-src.github.io/)_ in West Lafayette, IN. I presented a poster about our work **[Learning Reward Machines from Partially Observed Optimal Policies](https://www.arxiv.org/abs/2502.03762)**
 
 * _Jul. 2024_ — I was at the _[Learning for Dynamics and Control Conference](https://l4dc.web.ox.ac.uk/home)_ (L4DC) to present our work **[Learning true objectives: Linear algebraic characterizations of identifiability in inverse reinforcement learning](https://proceedings.mlr.press/v242/shehab24a/shehab24a.pdf)**.
 
