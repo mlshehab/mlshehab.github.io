@@ -17,7 +17,7 @@ I was born in Beirut, Lebanon. I received an embedded M.Sc. in Robotics from the
 
 ### Latest News
 
-*_Jun. 2025_ - I passed my thesis proposal exam! I'll be defending my thesis in approximately 1 year.
+* _Jun. 2025_ - I passed my thesis proposal exam! I'll be defending my thesis in approximately 1 year.
 
 * _Jan. 2025_  - I was at the _[Purdue ICON Student Research Conference](https://purdue-icon-src.github.io/)_ in West Lafayette, IN. I presented a poster about our work **[Learning Reward Machines from Partially Optimal Policies](https://www.arxiv.org/abs/2502.03762)**
 
