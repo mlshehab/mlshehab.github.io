@@ -9,13 +9,20 @@ redirect_from:
 
 ## Welcome !
 
-I'm Mohamad Louai Shehab, a 4th year Ph.D student in the Robotics Department at the University of Michigan. I'm fortunate to be advised by Prof. [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/). My research interests broadly span Inverse Reinforcement Learning and learning finite state machines (reward machines) from observed optimal behaviors. 
+I'm Mohamad Louai Shehab, a 5th year Ph.D student in the Robotics Department at the University of Michigan. I'm fortunate to be advised by Prof. [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/).
+
+My research lies at the intersection of **Reinforcement Learning, Inverse Reinforcement Learning**, and **Formal Methods**, with a focus on **identifying and representing non-Markovian structure in sequential decision-making**. I develop algorithms that learn **finite-state models of rewards**—such as Reward Machines—from demonstrations or optimal policies, even when only partial information is observed.
+
+Broadly, my work aims to make reward learning more **interpretable, identifiable, and generalizable** by connecting tools from optimization, logic, and automata theory to maximum-entropy reinforcement learning frameworks.
+ 
 
 ### Bio
 
-I was born in Beirut, Lebanon. I received an embedded M.Sc. in Robotics from the University of Michigan in 2024. Before that, I obtained a B.E. in Mechanical Engineering and a B.S. in Applied Mathematics from the American University of Beirut in 2021, both with high distinction. 
+I was born in Beirut, Lebanon. I received an embedded M.Sc. in Robotics from the University of Michigan in 2024. Before that, I obtained a B.E. in Mechanical Engineering and a B.S. in Applied Mathematics from the American University of Beirut in 2021, both with high distinction. My research has been supported by grants from Toyota Research Institute (TRI), the Office of Naval Research (ONR), and the Robotics Department Graduate Fellowship.
 
 ### Latest News
+
+* _Oct. 2025_ - Our paper [Learning Reward Machines from Partially Observed Policies](https://openreview.net/forum?id=7bbYYNvhTE) is accepted at **Transactions on Machine Learning Research (TMLR)**, 2025!
 
 * _Jun. 2025_ - I passed my thesis proposal exam! I'll be defending my thesis in approximately 1 year.
 
