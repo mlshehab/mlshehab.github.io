@@ -22,6 +22,8 @@ I was born in Beirut, Lebanon. I received an embedded M.Sc. in Robotics from the
 
 ### Latest News
 
+* _Dec. 2025_ - Our paper [Efficient Reward Identification in Max Entropy Reinforcement Learning with Sparsity and Rank Priors](https://arxiv.org/pdf/2508.07400) has won the **Outstanding Student Paper Award** at [CDC'2025](https://cdc2025.ieeecss.org/)!
+
 * _Oct. 2025_ - Our paper [Learning Reward Machines from Partially Observed Policies](https://openreview.net/forum?id=7bbYYNvhTE) is accepted at **Transactions on Machine Learning Research (TMLR)**, 2025!
 
 * _Jun. 2025_ - I passed my thesis proposal exam! I'll be defending my thesis in approximately 1 year.
