@@ -8,5 +8,11 @@ TL;DR: Traffic-rule compliance is a non-markovian specification. For example, in
 
 A sample reward machine for the stop-and-go task is presented here. 
 
-<img src="/images/stop_and_go.png" alt="Sample Reward Machine for Stop-and-Go Task" style="max-width:100%; height:auto;">
+<img src="/images/stop_and_go.png" alt="Sample Reward Machine for Stop-and-Go Task" style="max-width:70%; height:auto;">
 
+> [!WARNING]
+> If you are eager to know what the labels stand for, please wait until our manuscript is out!
+
+Here's a video demonstrating the resulting behaviors in a [highway-env](https://github.com/Farama-Foundation/HighwayEnv) simulator. 
+
+<img src="/images/intersection_sg_rm.gif" alt="Stop-and-Go Demo" style="max-width:70%; height:auto;">
