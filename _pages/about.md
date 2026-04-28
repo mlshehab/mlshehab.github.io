@@ -22,6 +22,12 @@ I was born in Beirut, Lebanon. I received an embedded M.Sc. in Robotics from the
 
 ### Latest News
 
+* _Apr. 2026_ Our paper [Active Reward Machine Inference From Raw State Trajectories](https://arxiv.org/pdf/2604.07480) has been accepted to the 17th World Symposium on the Algorithmic Foundations of Robotics [(WAFR)](https://algorithmic-robotics.org/)!
+
+* _Mar. 2026_ I defended my Ph.D. thesis!
+
+* _Feb. 2026_ I gave an invited talk in professor [Peter Seiler](https://seiler.engin.umich.edu/) group in the ECE department at University of Michigan. I talked about my most recent work on learning reward machines with unknown labels, currently under review.
+
 * _Dec. 2025_ - Our paper [Efficient Reward Identification in Max Entropy Reinforcement Learning with Sparsity and Rank Priors](https://arxiv.org/pdf/2508.07400) has won the **Outstanding Student Paper Award** at [CDC'2025](https://cdc2025.ieeecss.org/)!
 
 * _Oct. 2025_ - Our paper [Learning Reward Machines from Partially Observed Policies](https://openreview.net/forum?id=7bbYYNvhTE) is accepted at **Transactions on Machine Learning Research (TMLR)**, 2025!
