@@ -16,14 +16,19 @@ contact-rich tasks requiring physical reasoning, such as differentiating object 
 gears, TaVLA outperforms vision-only and alternative multimodal baselines, achieving an 80%
 success rate.  
 
+Below are videos of the tactile-augmented VLA policy, with the command: 
+```place bottle in blue bin if empty, otherwise place in orange bin.```
 
-<video width="70%" height="auto" controls>
+
+Full Medicine Bottle:
+
+<video width="90%" height="auto" controls>
   <source src="/images/full_tavla.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-
-<video width="70%" height="auto" controls>
+Empty Medicine Bottle:
+<video width="90%" height="auto" controls>
   <source src="/images/empty_tavla.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
